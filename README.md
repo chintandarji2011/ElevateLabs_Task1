@@ -13,7 +13,7 @@ Design and implement a PostgreSQL relational database for a library system. The 
 - SQL
 
 ---
-Refer to libraryDB.sql
+Refer to `libraryDB.sql`
 ##  Database: `libraryDB`
 
 ### Step 1: Create Database
@@ -25,7 +25,7 @@ CREATE DATABASE libraryDB;
 
 ---Connect to database
 <br>
---Refer to libraryTablesSchema.sql
+Refer to `libraryTablesSchema.sql`
 ##  Tables in the Schema
 
 ### 1. `authors_tb`
