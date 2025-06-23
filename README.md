@@ -101,6 +101,7 @@ Tracks borrowed books and their status.
 ---
 <br>
 Refer to `Insert_Lib_Tables_Data.sql` for full insert statements.
+<br>
 ##  Sample Data Insertion
 
 Sample data is inserted into all five tables including:
