@@ -24,7 +24,8 @@ CREATE DATABASE libraryDB;
 
 
 ---Connect to database
-Refer to libraryTablesSchema.sql
+<br>
+--Refer to libraryTablesSchema.sql
 ##  Tables in the Schema
 
 ### 1. `authors_tb`
@@ -98,7 +99,8 @@ Tracks borrowed books and their status.
 | create_date | DATE        | Default: `CURRENT_DATE`            |
 
 ---
-
+<br>
+Refer to `Insert_Lib_Tables_Data.sql` for full insert statements.
 ##  Sample Data Insertion
 
 Sample data is inserted into all five tables including:
@@ -109,7 +111,7 @@ Sample data is inserted into all five tables including:
 - 10 Members
 - 10 Loan records
 
-Refer to `Insert_Lib_Tables_Data.sql` for full insert statements.
+
 
 
 
