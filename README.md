@@ -109,7 +109,7 @@ Sample data is inserted into all five tables including:
 - 10 Members
 - 10 Loan records
 
-Refer to `insertTableData.sql` for full insert statements.
+Refer to `Insert_Lib_Tables_Data.sql` for full insert statements.
 
 
 
