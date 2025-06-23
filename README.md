@@ -19,6 +19,7 @@ Refer to libraryDB.sql
 ### Step 1: Create Database
 
 --sql
+<br>
 CREATE DATABASE libraryDB;
 
 
