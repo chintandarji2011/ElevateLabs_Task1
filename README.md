@@ -12,21 +12,18 @@ Design and implement a PostgreSQL relational database for a library system. The 
 - pgAdmin / psql CLI
 - SQL
 
+### Step 1: Create Database
 ---
 Refer to `libraryDB.sql`
-##  Database: `libraryDB`
-
-### Step 1: Create Database
-
 --sql
 <br>
 CREATE DATABASE libraryDB;
 
-
+##  Tables in the Schema
 ---Connect to database
 <br>
 Refer to `libraryTablesSchema.sql`
-##  Tables in the Schema
+
 
 ### 1. `authors_tb`
 Stores information about book authors.
@@ -99,10 +96,11 @@ Tracks borrowed books and their status.
 | create_date | DATE        | Default: `CURRENT_DATE`            |
 
 ---
-<br>
+
+##  Sample Data Insertion
+
 Refer to `Insert_Lib_Tables_Data.sql` for full insert statements.
 <br>
-##  Sample Data Insertion
 
 Sample data is inserted into all five tables including:
 
