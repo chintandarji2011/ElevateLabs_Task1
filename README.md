@@ -6,7 +6,7 @@ Author - Darji Chintankumar Dineshchandra
 Design and implement a PostgreSQL relational database for a library system. The system tracks authors, book categories, books, library members, and book loans. It includes both schema creation and sample data insertion.
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - PostgreSQL
 - pgAdmin / psql CLI
@@ -111,7 +111,7 @@ Sample data is inserted into all five tables including:
 - 10 Loan records
 
 
-## 🗺️ ER Diagram
+## ER Diagram
 
 An ER diagram is provided to visually understand the schema relationships:`ER diagrame_LibraryDB.png`
 
