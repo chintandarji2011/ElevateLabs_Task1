@@ -113,7 +113,7 @@ Sample data is inserted into all five tables including:
 
 ## ER Diagram
 
-An ER diagram is provided to visually understand the schema relationships:`ER diagrame_LibraryDB.png`
+An ER diagram is provided to visually understand the schema relationships:`ER diagram_LibraryDB.png`
 
 
 
