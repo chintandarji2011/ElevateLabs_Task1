@@ -111,6 +111,11 @@ Sample data is inserted into all five tables including:
 - 10 Loan records
 
 
+## 🗺️ ER Diagram
+
+An ER diagram is provided to visually understand the schema relationships:`ER diagrame_LibraryDB.png`
+
+
 
 
 
